@@ -30,6 +30,7 @@ const CustomerForm = () => {
   };
 
   return (
+    
     <form onSubmit={handleSubmit(onSubmit)} className="bg-white p-6 rounded-lg shadow-md mb-8">
       <h2 className="text-xl font-semibold text-purple-800 mb-4">Add Customer</h2>
       <input
