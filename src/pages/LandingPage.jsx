@@ -22,10 +22,10 @@ const LandingPage = () => {
 
         {/* Intro Content */}
         <div className="relative z-10 text-white text-center max-w-md">
-          <h1 className="text-7xl md:text-6xl font-extrabold mb-9 leading-tight  bg-clip-text bg-gradient-to-r text-white uppercase tracking-wide">
+          <h1 className="text-6xl md:text-6xl font-extrabold mb-9 leading-tight  bg-clip-text bg-gradient-to-r text-white uppercase tracking-wide">
             Fintech-Pro
           </h1>
-          <h2 className="text-3xl md:text-3xl font-extrabold mb-6 leading-tight  bg-clip-text bg-gradient-to-r text-white uppercase tracking-wide">
+          <h2 className="text-3xl md:text-3xl font-bold mb-6 leading-tight  bg-clip-text bg-gradient-to-r text-white uppercase tracking-wide">
             Empowering Financial Management with Precision & Innovation
           </h2>
           <p className="text-lg font-md text-white mb-6">
